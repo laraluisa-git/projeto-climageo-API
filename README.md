@@ -448,5 +448,8 @@ Para importar no Postman: **File > Import** e selecione o arquivo acima.
 
 ## Disciplina
 
-Técnicas de Integração de Sistemas — N703  
-Prazo de entrega: 05/06/2026# projeto-climageo-API
+Grupo 8 - 2026.1
+Técnicas de Integração de Sistemas — N703
+Análise e Desenvolvimento de Sistemas
+Universidade de Fortaleza
+projeto-climageo-API
