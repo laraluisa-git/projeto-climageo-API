@@ -6,5 +6,5 @@
 | Giuseppe Sarto Carvalho Rodrigues | 2425265 | Backend |
 | Luiz Felipe Sousa Paiva | 2425122 | Documentação |
 | Amanda Duarte Macedo    | 2415526 | Documentação & Testes de integração |
-| Nome 5        | XXXXX     | Documentação |
+| José Aurélio Basílio Madeira Neto      | 2425116     | Documentação |
 | Nome 6        | XXXXX     | Documentação |
