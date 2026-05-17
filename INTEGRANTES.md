@@ -7,4 +7,4 @@
 | Luiz Felipe Sousa Paiva | 2425122 | Documentação |
 | Amanda Duarte Macedo    | 2415526 | Documentação & Testes de integração |
 | José Aurélio Basílio Madeira Neto      | 2425116     | Documentação |
-| Nome 6        | XXXXX     | Documentação |
+| Thomaz Maia de Almeida        | 2425266     | Documentação |
